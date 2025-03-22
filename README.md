@@ -82,6 +82,8 @@ cm_display.plot()
 ```
 
 ## Output:
+![Screenshot 2025-03-22 134251](https://github.com/user-attachments/assets/f5a3ca80-895c-4c15-9f0d-957824868374)
+
 ![Screenshot 2025-03-22 134315](https://github.com/user-attachments/assets/787808c2-6fe8-4c61-a7fc-e1df17e71ac5)
 
 
