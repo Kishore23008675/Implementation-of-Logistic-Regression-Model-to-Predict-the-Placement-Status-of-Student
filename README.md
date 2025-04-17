@@ -82,11 +82,25 @@ cm_display.plot()
 ```
 
 ## Output:
-![Screenshot 2025-03-22 134251](https://github.com/user-attachments/assets/f5a3ca80-895c-4c15-9f0d-957824868374)
+![image](https://github.com/user-attachments/assets/f124ba3c-64d7-4860-bc3e-3ccc961668cc)
 
-![Screenshot 2025-03-22 134315](https://github.com/user-attachments/assets/787808c2-6fe8-4c61-a7fc-e1df17e71ac5)
+![image](https://github.com/user-attachments/assets/990870e4-e1f9-4576-8e40-e9954c19df22)
 
+![image](https://github.com/user-attachments/assets/70229037-ca39-47bb-a087-141370029f6a)
 
+![image](https://github.com/user-attachments/assets/d2331e2d-3ba1-49de-91da-5f2b3bd7d65a)
+
+![image](https://github.com/user-attachments/assets/75b6398a-d207-4d6a-84a6-e32159c022bc)
+
+![image](https://github.com/user-attachments/assets/fdbaf2bc-e9f2-4418-9c88-84bb91aac3b1)
+
+![image](https://github.com/user-attachments/assets/1551eacf-13b1-4e8e-8500-6c6e8b768922)
+
+![image](https://github.com/user-attachments/assets/8761a45a-6294-4892-83dc-caaf98afba0b)
+
+![image](https://github.com/user-attachments/assets/4dc67959-940f-4d3c-adbf-3dd005771929)
+
+![image](https://github.com/user-attachments/assets/dc39fdd6-8a03-40d9-95d2-ec1b062bb4bd)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
